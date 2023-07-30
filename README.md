@@ -6,22 +6,10 @@ Decoders are one of the trivial yet essential circuits in the realm of digital e
 This repo explicitly depicts the difference between dynamic and static CMOS logic and application of the same by developing a decoders and analyzing theri performance.
 The schematic files are not only designed but theri corresponding Layouts ae generated to examine the effects of parasitic capacitance and resistances in order to obtain virtually perfect values of delay, area consumption and power consumption.
 
-The dynamic CMOS logic are - 
-
-Simple and fast but at the expense of
-
-       Reduced Noise Margin
-       
-       Static Power Dissipation
-       
-       Number of Transistor = N+1 (for pseudo-NMOS)
-       
-![dynamic jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/2e0bda8e-9552-4be7-9bc8-fe7b503926f9)  
-
 
 The Static CMOS logic are -
 
-Robustness against Noise making it trouble free to automate
+Robust against Noise making it trouble free to automate
 
 Relatively consume less power
 
@@ -32,6 +20,30 @@ Number of Transistor required  = 2*N
 
 ![static jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/e3698d02-b288-4c21-a75f-3a07d7063a3e)
 
+The dynamic CMOS logic are - 
+
+Simple and fast but at the expense of
+
+       Reduced Noise Margin
+       
+       Static Power Dissipation
+       
+       Number of Transistor = N+1 (for pseudo-NMOS)
+              
+![dynamic jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/2e0bda8e-9552-4be7-9bc8-fe7b503926f9)  
+
+Various types under this category are Ratioed logic, pseudo-NMOS, Domino logic, pass-transistor, DCVSL(Differential Cascode Voltage Switch Logic).
+
+In our project we are extensively focusing on pseudo-NMOS logic
+
+The common advantages and disadvantages are
+
+Substantial reduction in gate complexity.
+
+But at the expense of static power consumption, asymmetrical response and reduced Noise Margin.
+
+
+pseudo-NMOS Logic![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/0cc6e3ae-c15d-47e2-a13b-9e160c49c64c)
 
 
 Various tools used were.
