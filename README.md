@@ -7,7 +7,9 @@ This repo explicitly depicts the difference between dynamic and static CMOS logi
 The schematic files are not only designed but theri corresponding Layouts ae generated to examine the effects of parasitic capacitance and resistances in order to obtain virtually perfect values of delay, area consumption and power consumption.
 
 
-![Pseudo_NMOS](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/ece4e8df-e2f4-431e-b7a4-76fec65391d1)
+![dynamic jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/2e0bda8e-9552-4be7-9bc8-fe7b503926f9)  ![static jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/e3698d02-b288-4c21-a75f-3a07d7063a3e)
+
+
 
 Various tools used were.
 
