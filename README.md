@@ -6,6 +6,9 @@ Decoders are one of the trivial yet essential circuits in the realm of digital e
 This repo explicitly depicts the difference between dynamic and static CMOS logic and application of the same by developing a decoders and analyzing theri performance.
 The schematic files are not only designed but theri corresponding Layouts ae generated to examine the effects of parasitic capacitance and resistances in order to obtain virtually perfect values of delay, area consumption and power consumption.
 
+This research was conducted in order to lay out the differences and advantages of each type of decoder in order to select the best one based on the application.
+i will be uploading another repo which has the complete SRAM block which includes one of the dcoders designed here.
+
 ![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/91cf14ff-6104-4ace-b17e-c49fe5ee4f09)
 
 ![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/ba36a135-4cc3-4212-b222-9150ebbf03d2)
