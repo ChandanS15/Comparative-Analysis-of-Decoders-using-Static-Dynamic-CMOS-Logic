@@ -15,6 +15,7 @@ Static Logic & Dynamic Logic![image](https://github.com/ChandanS15/Comparative-A
 
 ![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/2995a5d2-fdf7-4afe-bafa-449695847421)
 
+![static jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/f9a9a147-990c-4a73-b7b8-88ba076b5a88)
 
 Static CMOS Logic![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/7177100c-dd70-44b1-9c81-60b91ae30038)
 
@@ -24,6 +25,7 @@ Static CMOS Logic![image](https://github.com/ChandanS15/Comparative-Analysis-of-
 
 Dynamic CMOS Logic![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/46e94312-79ad-4ec0-8c4d-f8147b707738)
 
+![dynamic jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/3371e266-4c82-4027-9d98-d9cd6e066b43)
 
 ![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/4371f630-ac31-4997-977e-9970c478cc64)
 
