@@ -6,6 +6,7 @@ Decoders are one of the trivial yet essential circuits in the realm of digital e
 This repo explicitly depicts the difference between dynamic and static CMOS logic and application of the same by developing a decoders and analyzing theri performance.
 The schematic files are not only designed but theri corresponding Layouts ae generated to examine the effects of parasitic capacitance and resistances in order to obtain virtually perfect values of delay, area consumption and power consumption.
 
+Static CMOS Logic![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/d1f19020-4ec7-4ab4-90ed-4624ba63eb1f)
 
 The Static CMOS logic are -
 
@@ -18,7 +19,10 @@ One of the main disadvantage is, in high-fan-in circuits it turns out to be expe
 Number of Transistor required  = 2*N
 
 
+
 ![static jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/e3698d02-b288-4c21-a75f-3a07d7063a3e)
+
+Dynamic CMOS Logic![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/2c2c36a3-bc33-43dd-9e5d-00a4fe8a7379)
 
 The dynamic CMOS logic are - 
 
@@ -44,6 +48,35 @@ But at the expense of static power consumption, asymmetrical response and reduce
 
 
 pseudo-NMOS Logic![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/0cc6e3ae-c15d-47e2-a13b-9e160c49c64c)
+
+Conventional/static logic is  made of both PUN and PDN network, in contrast pseudo-NMOS comprises of only PDN network with a single PMOS transistor.
+The single PMOS is always grounded leading the output F to be always high(VDD). Consequently, the Nominal output high voltage VOH = VDD.
+Nominal output low voltage is no equal to 0 as in conventional CMOS due to the fight between PDN and the grounded PMOS and acting as load device.
+![image](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/1cd27f5b-d546-41c9-8cfa-00cfa1a32f86)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Various tools used were.
