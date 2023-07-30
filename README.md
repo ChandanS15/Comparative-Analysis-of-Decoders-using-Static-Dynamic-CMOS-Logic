@@ -11,10 +11,15 @@ The schematic files are not only designed but theri corresponding Layouts ae gen
 Various tools used were.
 
 Schematics            - Cadence Virtuoso Schematic XL
+
 Layout                - Layout XL
+
 Simulation            - ADE L
+
 Technology            - GPDK180
+
 Physical Verification - ASSURA
+
 RC Extraction         - Quantus RC
 
 
