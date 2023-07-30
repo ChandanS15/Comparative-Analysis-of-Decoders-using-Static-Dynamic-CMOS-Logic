@@ -26,4 +26,5 @@ Various tools used were.
 All the files included are final.
 
 I have also attached the pdf of the IEEE published paper of the same.
+
 C. Srinivas, B. G S, C. S P, K. E. A and P. Vimala, "Comparative Analysis of Decoders using Static & Dynamic CMOS Logic," 2023 International Conference on Advances in Electronics, Communication, Computing and Intelligent Information Systems (ICAECIS), Bangalore, India, 2023, pp. 368-372, doi: 10.1109/ICAECIS58353.2023.10170322.
