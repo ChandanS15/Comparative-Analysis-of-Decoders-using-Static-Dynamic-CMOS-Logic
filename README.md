@@ -7,17 +7,26 @@ This repo explicitly depicts the difference between dynamic and static CMOS logi
 The schematic files are not only designed but theri corresponding Layouts ae generated to examine the effects of parasitic capacitance and resistances in order to obtain virtually perfect values of delay, area consumption and power consumption.
 
 The dynamic CMOS logic are - 
+
 Simple and fast but at the expense of
+
        Reduced Noise Margin
+       
        Static Power Dissipation
+       
        Number of Transistor = N+1 (for pseudo-NMOS)
+       
 ![dynamic jpeg](https://github.com/ChandanS15/Comparative-Analysis-of-Decoders-using-Static-Dynamic-CMOS-Logic/assets/82103081/2e0bda8e-9552-4be7-9bc8-fe7b503926f9)  
 
 
 The Static CMOS logic are -
+
 Robustness against Noise making it trouble free to automate
+
 Relatively consume less power
+
 One of the main disadvantage is, in high-fan-in circuits it turns out to be expensive in terms of are and performance
+
 Number of Transistor required  = 2*N
 
 
