@@ -10,17 +10,17 @@ The schematic files are not only designed but theri corresponding Layouts ae gen
 
 Various tools used were.
 
-Schematics            - Cadence Virtuoso Schematic XL
+1. Schematics            - Cadence Virtuoso Schematic XL
 
-Layout                - Layout XL
+2. Layout                - Layout XL
 
-Simulation            - ADE L
+3. Simulation            - ADE L
 
-Technology            - GPDK180
+4. Physical Verification - ASSURA
 
-Physical Verification - ASSURA
+5. RC Extraction         - Quantus RC
 
-RC Extraction         - Quantus RC
+6. Technology            - GPDK180
 
 
 All the files included are final.
